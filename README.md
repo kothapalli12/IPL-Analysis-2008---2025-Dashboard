@@ -1,4 +1,4 @@
-#  Power BI IPL-Analysis-2008---2025-Dashboard
+#  Power BI IPL-Analysis-2008---2025-Dashboard 
 
 A fully interactive dashboard built using IPL match data from 2008 to 2025.
 This project provides insights into teams, players, matches, seasons, venues, and performance trends across 18 IPL seasons.
