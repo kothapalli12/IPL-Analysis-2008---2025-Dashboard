@@ -45,3 +45,5 @@ This project provides insights into teams, players, matches, seasons, venues, an
 ->Contribution to team win percentage
 
 Screenshot Dashboard:https://github.com/kothapalli12/IPL-Analysis-2008---2025-Dashboard/blob/main/IPL%20Analysis%20Image.png
+
+Analysis Live: https://github.com/kothapalli12/IPL-Analysis-2008---2025-Dashboard/blob/main/IPL%20Analysis%20(2008%20-%202025).pbit
